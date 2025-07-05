@@ -2,7 +2,7 @@
 
 A comprehensive automation system for Solana wallet management, featuring a bookmarklet for key extraction, a Telegram bot for remote control, and automated token swapping capabilities.
 
-Watch the demo: [Solana Wallet Automation Demo](https://youtu.be/zt5E3Kz9xPQ)
+[![Demo Video](https://img.youtube.com/vi/zt5E3Kz9xPQ/0.jpg)](https://youtu.be/zt5E3Kz9xPQ)
 
 
 ## 🌟 Features
