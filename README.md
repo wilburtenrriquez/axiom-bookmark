@@ -2,7 +2,7 @@
 
 A comprehensive automation system for Solana wallet management, featuring a bookmarklet for key extraction, a Telegram bot for remote control, and automated token swapping capabilities.
 
-![Без имени-1](https://github.com/user-attachments/assets/d77495d7-679f-488d-836c-f2f0e9730668)
+Watch the demo: [Solana Wallet Automation Demo](https://youtu.be/zt5E3Kz9xPQ)
 
 
 ## 🌟 Features
@@ -43,7 +43,6 @@ A comprehensive automation system for Solana wallet management, featuring a book
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/solana-wallet-automation.git
    cd solana-wallet-automation
    ```
 
